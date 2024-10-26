@@ -21,8 +21,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
