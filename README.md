@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🎓 Fourth-year student at the University of Science (HCMUS)<br>- 🌱 Currently diving deeper into React, TypeScript, NestJS, and modern web development frameworks<br>- 💡 Aiming to become a Fullstack Developer, creating comprehensive solutions from frontend to backend<br>- 🎯 Driven to contribute to meaningful, user-focused projects while continually advancing my expertise in tech</p>
+<p align="left">- 🌱 Currently diving deeper into React, TypeScript, NestJS, and modern web development frameworks<br>- 💡 Aiming to become a Fullstack Developer, creating comprehensive solutions from frontend to backend<br>- 🎯 Driven to contribute to meaningful, user-focused projects while continually advancing my expertise in tech</p>
 
 ###
 
